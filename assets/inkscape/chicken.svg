@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="Zeichnung.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.4626892"
+     inkscape:cx="286.06939"
+     inkscape:cy="262.11184"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="52"
+     inkscape:window-y="106"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g9016" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9016"
+       inkscape:export-filename="chicken.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#ffac00;fill-opacity:1;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke"
+         d="m 88.735484,59.384517 2.195838,7.336723 c -1.047439,1.120169 -4.129818,-5.004575 -4.129818,-5.004575 z"
+         id="path8789"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="chicken.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="fill:#ffe500;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1"
+         id="path184"
+         cx="78.874573"
+         cy="51.593582"
+         rx="11.873591"
+         ry="14.841989" />
+      <path
+         style="fill:#e57b3b;fill-opacity:1;stroke-width:1.08499;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke"
+         d="M 72.331389,74.933288 76.773246,86.03445 84.859203,75.381598 Z"
+         id="path1886" />
+      <ellipse
+         style="fill:#ffd623;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1"
+         id="path186"
+         cx="78.450516"
+         cy="68.979912"
+         rx="9.470602"
+         ry="11.308182" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path7259"
+         cx="73.296616"
+         cy="75.285881"
+         rx="1.479194"
+         ry="1.3261739" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path7259-3"
+         cx="83.038895"
+         cy="-75.591911"
+         rx="1.479194"
+         ry="1.3261739"
+         transform="scale(1,-1)" />
+      <ellipse
+         style="fill:#ffcd00;fill-opacity:1;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path8893"
+         cx="79.005157"
+         cy="36.470055"
+         rx="3.1921277"
+         ry="2.3142924" />
+      <circle
+         style="fill:#ff8000;fill-opacity:1;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path8947"
+         cx="78.360641"
+         cy="70.38282"
+         r="1.5494109" />
+      <circle
+         style="fill:#ff8000;fill-opacity:1;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path8947-9"
+         cx="78.294708"
+         cy="68.470779"
+         r="1.5494109" />
+      <circle
+         style="fill:#ff8000;fill-opacity:1;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path8947-97"
+         cx="78.327667"
+         cy="66.690605"
+         r="1.5494109" />
+      <circle
+         style="fill:#ff8000;fill-opacity:1;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path8947-0"
+         cx="78.261734"
+         cy="64.712631"
+         r="1.5494109" />
+      <circle
+         style="fill:#ff8000;fill-opacity:1;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path8947-3"
+         cx="78.261742"
+         cy="62.932465"
+         r="1.5494109" />
+      <circle
+         style="fill:#ff8000;fill-opacity:1;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path8947-98"
+         cx="78.294708"
+         cy="72.130028"
+         r="1.5494109" />
+    </g>
+  </g>
+</svg>
